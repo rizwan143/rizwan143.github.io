@@ -1,5 +1,3 @@
-# Rizwan Sultan — Senior iOS Developer
+# Moved
 
-Portfolio site: https://rizwan143.github.io
-
-Built with React, TypeScript, Vite, Tailwind CSS and Motion.
+This portfolio now lives at https://rizwansultandev.github.io
